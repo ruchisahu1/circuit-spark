@@ -28,7 +28,7 @@ const Landing = () => {
           </div>
 
           <p className="text-sm uppercase tracking-[0.32em] text-muted-foreground">
-            Circuit Spark
+            Electronics Engineer
           </p>
 
           <h1 className="mt-4 text-4xl font-semibold leading-tight text-foreground md:text-6xl">

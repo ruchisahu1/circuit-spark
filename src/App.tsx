@@ -17,7 +17,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/user/gamified/Electronics-Engineer">
         <Routes>
           <Route path="/" element={<Landing />} />
           <Route path="/setup" element={<ProfileSetup />} />
