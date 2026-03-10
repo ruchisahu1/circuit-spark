@@ -582,7 +582,7 @@ const GamePlay = () => {
                   variant="outline"
                   onClick={() => window.location.href = "https://missionx.junkbot.co/user/gamified"}
               >
-                Exit
+                Quit
               </Button>
             </div>
           </motion.div>
