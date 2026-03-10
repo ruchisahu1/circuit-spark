@@ -578,6 +578,12 @@ const GamePlay = () => {
                   Next Level →
                 </Button>
               )}
+              <Button
+                  variant="outline"
+                  onClick={() => window.location.href = "https://missionx.junkbot.co/user/gamified"}
+              >
+                Exit
+              </Button>
             </div>
           </motion.div>
         </motion.div>
